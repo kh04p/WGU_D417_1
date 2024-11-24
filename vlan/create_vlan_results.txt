@@ -1,0 +1,12 @@
+**********************************
+********** USER NETWORK **********
+Successfully sent VLAN creation command.
+**********************************
+********** ACCT_NETWORK **********
+Successfully sent VLAN creation command.
+**********************************
+********** MGMT_NETWORK **********
+Successfully sent VLAN creation command.
+**********************************
+**********  IT_NETWORK  **********
+Successfully sent VLAN creation command.

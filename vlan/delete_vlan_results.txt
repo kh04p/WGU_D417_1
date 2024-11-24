@@ -1,0 +1,12 @@
+**********************************
+********** USER NETWORK **********
+Successfully sent VLAN deletion command.
+**********************************
+********** ACCT_NETWORK **********
+Successfully sent VLAN deletion command.
+**********************************
+********** MGMT_NETWORK **********
+Successfully sent VLAN deletion command.
+**********************************
+**********  IT_NETWORK  **********
+Successfully sent VLAN deletion command.
